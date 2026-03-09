@@ -1,4 +1,4 @@
-# 深度强化学习 理论笔记
+# 从Value Iteration到DQN
 
 [TOC]
 
